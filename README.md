@@ -43,6 +43,7 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
+  Closure is a how a function or code block relates to surrounding code. When functions are created within functions, 
 2. Study the following code, then answer the questions below.
 
 ```js
